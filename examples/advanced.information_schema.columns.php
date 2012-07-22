@@ -88,7 +88,7 @@ $template = array();
 $template['page_list_search_template'] = <<< TPL
 <div id="advanced-search-container">
    <div class="widget-search-drilldown-close" onclick="<!--BUTTON_CLOSE-->">X</div>
-   <ul class="advanced-search-container-inline" id="search_prospect_campaign">
+   <ul class="advanced-search-container-inline" id="search_columns">
       <li>
          <div>Search Comments</div>
          <!--COMMENTS-->
