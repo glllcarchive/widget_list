@@ -1,0 +1,19 @@
+
+/**
+* Select box global
+*/
+div.select-outer {display:inline}
+
+/**
+* MultiSelect box global
+*/
+div.select-outer-multiple div.select-inner-multiple select {height:130px}
+div.select-outer-multiple div.select-inner-multiple {margin-right:-9px !important;}
+
+/**
+* Widgetlist Pagination
+*/
+.page_legacy {width:600px; left:0; margin-left:0;}
+ul#pagination li div {display:inline}
+ul#pagination li div.select-outer {background: url("../images/input_text_right.png") no-repeat scroll right 2px transparent;}
+ul#pagination li div.select-outer div.select-inner select {margin-top: -4px !important;}
